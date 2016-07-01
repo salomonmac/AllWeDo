@@ -1,3 +1,10 @@
 Pendientes:
-* Arreglar la imagen del head
+* Arreglar la imagen del head  (altura de 50px;)
 *Arreglar la colocacion del logo
+
+
+position:fixed;
+left:50%;
+top:-50%;
+margin-left:100%;
+margin-top:50px;

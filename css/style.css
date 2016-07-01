@@ -5,14 +5,13 @@
 .navbar-inverse{
     background-color: black;
     color: white;
-    font-size: 15px;
+    font-size: 14.8px;
 }
 #logo{
 position:fixed;
-left:50%;
-top:50%;
-margin-left:-150px;
-margin-top:-150px;
+left:45%;
+    top: 10px;
+
 }
 
 #head-logo{
