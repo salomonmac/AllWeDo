@@ -1,0 +1,20 @@
+*{
+    font-family: 'Nixie One', cursive;
+}
+
+.navbar-inverse{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+#logo{
+position:fixed;
+left:50%;
+top:50%;
+margin-left:-150px;
+margin-top:-150px;
+}
+
+#head-logo{
+
+}
