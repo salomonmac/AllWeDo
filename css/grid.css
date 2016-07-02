@@ -1,0 +1,25 @@
+
+@media (min-width: 1400px) {
+ .navbar-nav li{
+margin-right: 65px;
+     font-size: 17px;
+}
+  }
+
+@media screen and (min-width: 1200px) and (max-width: 1299px) {
+     .navbar-nav li{
+margin-right: 34px;
+     font-size: 15px;
+}
+}
+@media screen and (min-width: 1300px) and (max-width: 1399px) {
+     .navbar-nav li{
+margin-right: 50px;
+     font-size: 16px;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 1000px) {
+     .navbar-nav li{
+     font-size: 13px;
+}
+}
