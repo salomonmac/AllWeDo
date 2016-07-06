@@ -1,0 +1,33 @@
+*{
+    font-family: 'Nixie One', cursive;
+}
+
+.navbar-inverse{
+    background-color: black;
+    color: white;
+    font-size: 14.8px;
+}
+#logo{
+position:fixed;
+left:45%;
+    top: 10px;
+
+}
+
+.fondo {
+    background-color: #e5e5e5;
+}
+
+.contorno {
+
+}
+
+
+.contorno2 .col-md-6 {
+    padding: 2px;
+    padding-bottom: .1px;
+}
+.contorno2 .col-sm-6{
+    padding: 2px;
+    padding-bottom: .1px;
+}
