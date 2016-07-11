@@ -16,10 +16,15 @@ left:45%;
 
 .fondo {
     background-color: #e5e5e5;
+    height: 120%;
+
 }
 
-.contorno {
-
+.contorno .col-md-6{
+padding-left: px;
+}
+.contorno .col-sm-6{
+padding-left: px;
 }
 
 
@@ -30,4 +35,41 @@ left:45%;
 .contorno2 .col-sm-6{
     padding: 2px;
     padding-bottom: .1px;
+}
+.redes-sociales {
+    list-style: none;
+    text-align: center;
+}
+.redes-sociales img{
+   width: 40px;
+    margin: 10px
+}
+ul li {
+    display: inline-block;
+}
+
+.linea {
+    background: #000;
+    padding-top: 3px;
+    margin-top: 27px;
+}
+
+.artistas {
+    background: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+.fondo img{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.thumbnail{
+    background-color: #e5e5e5;
+    border: #e5e5e5;
+}
+.fondo2 {
+    background-color: #e5e5e5;
+
 }
