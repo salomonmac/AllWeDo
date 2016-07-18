@@ -91,3 +91,20 @@ footer h4{
 footer  ul li img{
     width: 30px;
 }
+
+.footer-2 {
+    background: black;
+    color: white;
+}
+.footer-2 p{
+    font-size: 12px;
+}
+.borde{
+    margin-top: 50px;
+}
+.border2{
+     border-top: 3px solid black;
+}
+.footer-2 ul li{
+    list-style: none;
+}
