@@ -8,15 +8,14 @@
     font-size: 14.8px;
 }
 #logo{
-position:fixed;
-left:45%;
+    position:fixed;
+    left:45%;
     top: 10px;
 
 }
 
 .fondo {
     background-color: #e5e5e5;
-    height: 120%;
 
 }
 
@@ -62,7 +61,6 @@ ul li {
     margin-bottom: 0px;
 }
 .fondo img{
-    padding-top: 20px;
     padding-bottom: 20px;
 }
 .thumbnail{
@@ -75,12 +73,12 @@ ul li {
 }
 
 
-.contorno3 .col-md-2{
-        padding-left: 0px;
+.contorno3 .col-md-3{
+    padding-left: 0px;
     padding-right: 10px;
     padding-bottom: 10px;
 }
-.contorno3 .col-sm-2{
+.contorno3 .col-sm-3{
         padding-left: 15px;
     padding-right: 0px;
     padding-bottom: 5px;
@@ -107,4 +105,7 @@ footer  ul li img{
 }
 .footer-2 ul li{
     list-style: none;
+}
+.fondo .thumbnail {
+    padding-top: 0px;
 }
