@@ -1,28 +1,97 @@
-
-@media (min-width: 1400px) {
- .navbar-nav li{
-margin-right: 65px;
-     font-size: 17px;
-}
-  }
-
-@media screen and (min-width: 1200px) and (max-width: 1299px) {
+@media screen and (min-width: 900px) and (max-width: 1099px) {
      .navbar-nav li{
-margin-right: 34px;
+margin-right: 25px;
      font-size: 15px;
 }
 }
+@media screen and (min-width: 1100px) and (max-width: 1199px) {
+     .navbar-nav li{
+margin-right: 35px;
+     font-size: 15px;
+}
+}
+@media screen and (min-width: 1200px) and (max-width: 1299px) {
+     .navbar-nav li{
+margin-right: 35px;
+     font-size: 15px;
+}
+}
+
 @media screen and (min-width: 1300px) and (max-width: 1399px) {
      .navbar-nav li{
-margin-right: 50px;
-     font-size: 16px;
+margin-right: 64px;
+     font-size: 15px;
+}
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1499px) {
+     .navbar-nav li{
+margin-right: 75px;
+     font-size: 17px;
+}
+}
+@media screen and (min-width: 1500px) and (max-width: 1599px) {
+     .navbar-nav li{
+margin-right: 86px;
+     font-size: 17px;
+}
+}
+@media screen and (min-width: 1600px) and (max-width: 1699px) {
+     .navbar-nav li{
+margin-right: 99px;
+     font-size: 17px;
+}
+}
+@media screen and (min-width: 1700px) and (max-width: 1799px) {
+     .navbar-nav li{
+margin-right: 95px;
+     font-size: 22px;
+}
+}
+@media screen and (min-width: 1800px) and (max-width: 1899px) {
+     .navbar-nav li{
+margin-right: 110px;
+     font-size: 22px;
+}
+}
+
+@media screen and (min-width: 1900px) and (max-width: 1999px) {
+     .navbar-nav li{
+margin-right: 125px;
+     font-size: 22px;
+}
+}
+
+@media screen and (min-width: 2000px) and (max-width: 2099px) {
+     .navbar-nav li{
+margin-right: 140px;
+     font-size: 22px;
 }
 }
 @media screen and (min-width: 768px) and (max-width: 1000px) {
      .navbar-nav li{
-     font-size: 13px;
+     font-size: 12.5px;
 }
 }
+
+@media screen and (min-width: 300px) and (max-width: 500px) {
+    .form-control, .btn{
+font-size: 10px;
+}
+}
+@media screen and (min-width: 300px) and (max-width: 500px) {
+   .navbar-form{
+margin-left: 0px;
+       margin-right: 0px;
+}
+}
+@media screen and (min-width: 700px) and (max-width: 899px) {
+    .form-control, .btn{
+font-size: 10px;
+}
+}
+
+
 @media screen and (min-width: 768px) and (max-width: 1023px) {
      footer p{
      font-size: 10px;
