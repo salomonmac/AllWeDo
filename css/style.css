@@ -111,11 +111,21 @@ footer  ul li img{
     margin-top: 50px;
 }
 .border2{
-     border-top: 3px solid black;
+     border-top: 10px solid black;
 }
 .footer-2 ul li{
     list-style: none;
 }
 .fondo .thumbnail {
     padding-top: 0px;
+}
+
+.fondo3 {
+    background: #000;
+    color: white;
+    
+}
+
+.border {
+    border: 2px solid #000;
 }
